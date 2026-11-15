@@ -1,4 +1,4 @@
-# Data Visualisation Story Telling (Power-BI, Power-Query, DAX)
+# Data Visualisation & Story Telling (Power-BI, Power-Query, DAX)
 
 ## Purpose
 
