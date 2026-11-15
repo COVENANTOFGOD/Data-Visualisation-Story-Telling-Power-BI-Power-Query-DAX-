@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Turin Data into a model, defines the measures, and delivers an interactive report.
+Turning Data into a model, defines the measures, and delivers an interactive report.
 
 ## Power Query: load and data type formatting
 
