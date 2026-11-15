@@ -115,7 +115,7 @@ Churned % by Quarter	Qtr 1 48.0% → Qtr 2 45.5% → Qtr 3 38.0% → Qtr 4 34.1%
 Churned % by Year	2009 40.2% · 2010 56.3% · 2011 31.5%
 <img width="1163" height="244" alt="image" src="https://github.com/user-attachments/assets/e590b0ca-0ca8-41b0-9edb-39a6cc739fef" />
 
-Key Findings
+## Key Findings
 Revenue is highly concentrated. Champions are 22% of customers but generate 68.1% of revenue ($11.84M). Their average value ($9.2K) is more than 20× that of Lost customers ($0.4K).
 Lost is the largest group but the smallest revenue contributor. It holds 25.9% of customers and only 3.8% of revenue.
 At Risk is the best win-back target. 820 customers with a high Frequency (3.92) and Monetary (3.85) score, but very low Recency (1.72). Their average value ($1.9K) matches Loyal customers.
